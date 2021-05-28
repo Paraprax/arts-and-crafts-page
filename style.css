@@ -1,5 +1,5 @@
 h1 {
-  background-image: src("images/tile-pattern.jpeg");
+  background-image: url(images/tile-pattern.jpg);
   color: khaki;
   font-size: 100px;
   font-weight: bold;
